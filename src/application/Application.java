@@ -15,6 +15,7 @@ public class Application {
         else {
             System.out.println("Their voice is NOT the same");
 
+
         }
         System.out.println("Your cat's name is "+cat2.getName());
         System.out.println("Your cat's weight is "+cat2.getWeight());
